@@ -1,0 +1,116 @@
+h1 {font-family: Futura, Arial;
+    font-size: 50px;
+     text-align: center;}
+
+button.button1  {
+    border-radius: 20px;
+    background-color:#B2170E;
+    color: white;
+    padding: 20px;
+    width: 3em;
+    height:3em;
+    line-height: 2.3em;
+    
+    position:fixed ;
+    left: 2.5em;
+    
+    
+    font-family: Futura, Arial;
+    font-size: 3em;
+    font-weight:bold ;
+    text-align: center;
+    
+}
+
+button.button2  {
+    border-radius: 20px;
+    background-color:#0EAAB2;
+    color: white;
+    padding: 20px;
+    width: 3em;
+    height:3em;
+    line-height: 2.3em;
+    
+    position: absolute;
+    right: 2.5em;
+    
+    
+    font-family: Futura, Arial;
+    font-size: 3em;
+    font-style:italic ;
+    text-align: center;
+    
+}
+
+button.button3 {
+    border-radius: 20px;
+    background-color:#ffcc11;
+    color: white;
+    padding: 20px;
+    width: 3em;
+    height:3em;
+    line-height: 2.3em;
+    
+    position:fixed ;
+    left: 2.5em;
+    top: 5.8em;
+    
+    
+    font-family: Futura, Arial;
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+button.button4 {
+    border-radius: 20px;
+    background-color:#47BA43;
+    color: white;
+    padding: 20px;
+    width: 3em;
+    height:3em;
+    line-height: 2.2em;
+    
+    position:fixed;
+    right: 2.5em;
+    top: 5.8em;
+    
+    
+    font-family: Futura, Arial;
+    font-size: 3em;
+    font-style: italic;
+    text-align: center;
+    
+}
+
+img {
+	display: block;
+	margin: auto;
+	
+    /*width: 10%; */
+}
+
+button.StopButton{
+	border-radius: 20px;
+    background-color:black;
+    color: white;
+    padding: 20px;
+    width: 40%;
+    height:3em;
+    line-height: 2.2em;
+	
+	display: block;
+	margin: auto;
+	position: relative;
+	
+	
+	font-family: Futura, Arial;
+    font-size: 3em;
+    font-weight: stronger;
+    text-align: center;
+}
+
+/* treat all images the same, get them in the middle */
+
+
